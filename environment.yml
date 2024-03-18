@@ -1,6 +1,7 @@
+name: PalmerPenguin
 # conda env create --file environment.yml
 # mamba env create --file environment.yml
-name: PalmerPenguin
+
 channels:
   - anaconda
   - conda-forge
